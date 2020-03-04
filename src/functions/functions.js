@@ -3,7 +3,7 @@ import auth from './auth';
 
 
 
-const database = "http://localhost:5000";
+const database = process.env.SERVER;
 //start of user functions
 export const register = newUser => {
   
