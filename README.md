@@ -3,5 +3,5 @@ Beach Resort Project built with MongoDB, NodeJS, Express, ReactJS.
 
 Includes:
 
--login and registration
+- login and registration
 - room booking system
