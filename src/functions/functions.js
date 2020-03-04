@@ -3,7 +3,7 @@ import auth from './auth';
 
 
 
-const database = process.env.SERVER;
+const database = "https://beachwaves-resort.herokuapp.com";
 //start of user functions
 export const register = newUser => {
   
